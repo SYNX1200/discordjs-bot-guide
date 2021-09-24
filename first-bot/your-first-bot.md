@@ -18,7 +18,7 @@ client.on("message", (message) => {
   }
 });
 
-client.login("SuperSecretBotTokenHere");
+client.login("ODkwNzI1NDA1MjE1MDUxODA3.YUz-rQ.ir0dBHUvu8dle22sJY0WbatCf7o");
 ```
 
 ## Introducing Events
